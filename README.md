@@ -17,4 +17,4 @@ I am currently a student at sdccd where I am studying _**front-end web developem
 * I collect comic books
 
 Here's a picture of me going fishing at the pier:
-![Me with fishing poles] (https://sdccd.instructure.com/users/8971311/files/140881959/preview?instfs=true)
+![Me with fishing poles] ([https://sdccd.instructure.com/users/8971311/files/140881959/preview?instfs=true](https://sdccd.instructure.com/files/140881959/download?download_frd=1))
